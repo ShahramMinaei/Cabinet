@@ -1,0 +1,1170 @@
+{
+  "ingredients": [
+    {
+      "id": "potato",
+      "name": "سیب‌زمینی",
+      "category": "سبزیجات",
+      "unit": "g",
+      "emoji": "🥔",
+      "allergens": [],
+      "aliases": ["سیب زمینی"]
+    },
+    {
+      "id": "onion",
+      "name": "پیاز",
+      "category": "سبزیجات",
+      "unit": "g",
+      "emoji": "🧅",
+      "allergens": [],
+      "aliases": []
+    },
+    {
+      "id": "tomato",
+      "name": "گوجه‌فرنگی",
+      "category": "سبزیجات",
+      "unit": "g",
+      "emoji": "🍅",
+      "allergens": [],
+      "aliases": ["گوجه فرنگی"]
+    },
+    {
+      "id": "mushroom",
+      "name": "قارچ",
+      "category": "سبزیجات",
+      "unit": "g",
+      "emoji": "🍄",
+      "allergens": [],
+      "aliases": []
+    },
+    {
+      "id": "garlic",
+      "name": "سیر",
+      "category": "سبزیجات",
+      "unit": "g",
+      "emoji": "🧄",
+      "allergens": [],
+      "aliases": []
+    },
+    {
+      "id": "carrot",
+      "name": "هویج",
+      "category": "سبزیجات",
+      "unit": "g",
+      "emoji": "🥕",
+      "allergens": [],
+      "aliases": []
+    },
+    {
+      "id": "herbs",
+      "name": "سبزی کوکو",
+      "category": "سبزیجات",
+      "unit": "g",
+      "emoji": "🌿",
+      "allergens": [],
+      "aliases": []
+    },
+    {
+      "id": "green-bean",
+      "name": "لوبیا سبز",
+      "category": "سبزیجات",
+      "unit": "g",
+      "emoji": "🫛",
+      "allergens": [],
+      "aliases": []
+    },
+    {
+      "id": "rice",
+      "name": "برنج",
+      "category": "غلات و حبوبات",
+      "unit": "g",
+      "emoji": "🍚",
+      "allergens": [],
+      "aliases": []
+    },
+    {
+      "id": "lentil",
+      "name": "عدس",
+      "category": "غلات و حبوبات",
+      "unit": "g",
+      "emoji": "🫘",
+      "allergens": [],
+      "aliases": []
+    },
+    {
+      "id": "penne",
+      "name": "پاستا پنه",
+      "category": "غلات و حبوبات",
+      "unit": "g",
+      "emoji": "🍝",
+      "allergens": ["gluten"],
+      "aliases": []
+    },
+    {
+      "id": "pasta",
+      "name": "ماکارونی شکل‌دار",
+      "category": "غلات و حبوبات",
+      "unit": "g",
+      "emoji": "🍝",
+      "allergens": ["gluten"],
+      "aliases": []
+    },
+    {
+      "id": "spaghetti",
+      "name": "ماکارونی رشته‌ای",
+      "category": "غلات و حبوبات",
+      "unit": "g",
+      "emoji": "🍝",
+      "allergens": ["gluten"],
+      "aliases": []
+    },
+    {
+      "id": "flour",
+      "name": "آرد سفید",
+      "category": "غلات و حبوبات",
+      "unit": "g",
+      "emoji": "🌾",
+      "allergens": ["gluten"],
+      "aliases": []
+    },
+    {
+      "id": "chickpea-flour",
+      "name": "آرد نخودچی",
+      "category": "غلات و حبوبات",
+      "unit": "g",
+      "emoji": "🌾",
+      "allergens": [],
+      "aliases": []
+    },
+    {
+      "id": "beef",
+      "name": "گوشت چرخ‌کرده",
+      "category": "پروتئین",
+      "unit": "g",
+      "emoji": "🥩",
+      "allergens": [],
+      "aliases": []
+    },
+    {
+      "id": "chicken",
+      "name": "سینه مرغ",
+      "category": "پروتئین",
+      "unit": "g",
+      "emoji": "🍗",
+      "allergens": [],
+      "aliases": []
+    },
+    {
+      "id": "egg",
+      "name": "تخم‌مرغ",
+      "category": "پروتئین",
+      "unit": "count",
+      "emoji": "🥚",
+      "allergens": ["egg"],
+      "aliases": ["تخم مرغ"]
+    },
+    {
+      "id": "soy",
+      "name": "سویا",
+      "category": "پروتئین",
+      "unit": "g",
+      "emoji": "🫘",
+      "allergens": ["soy"],
+      "aliases": []
+    },
+    {
+      "id": "milk",
+      "name": "شیر",
+      "category": "لبنیات",
+      "unit": "ml",
+      "emoji": "🥛",
+      "allergens": ["milk"],
+      "aliases": []
+    },
+    {
+      "id": "cream",
+      "name": "خامه",
+      "category": "لبنیات",
+      "unit": "g",
+      "emoji": "🥣",
+      "allergens": ["milk"],
+      "aliases": []
+    },
+    {
+      "id": "butter",
+      "name": "کره",
+      "category": "لبنیات",
+      "unit": "g",
+      "emoji": "🧈",
+      "allergens": ["milk"],
+      "aliases": []
+    },
+    {
+      "id": "parmesan",
+      "name": "پنیر پارمسان",
+      "category": "لبنیات",
+      "unit": "g",
+      "emoji": "🧀",
+      "allergens": ["milk"],
+      "aliases": []
+    },
+    {
+      "id": "oil",
+      "name": "روغن",
+      "category": "چاشنی‌ها",
+      "unit": "ml",
+      "emoji": "🫒",
+      "allergens": [],
+      "aliases": []
+    },
+    {
+      "id": "paste",
+      "name": "رب گوجه‌فرنگی",
+      "category": "چاشنی‌ها",
+      "unit": "g",
+      "emoji": "🥫",
+      "allergens": [],
+      "aliases": []
+    },
+    {
+      "id": "salt",
+      "name": "نمک",
+      "category": "چاشنی‌ها",
+      "unit": "g",
+      "emoji": "🧂",
+      "allergens": [],
+      "aliases": []
+    },
+    {
+      "id": "pepper",
+      "name": "فلفل سیاه",
+      "category": "چاشنی‌ها",
+      "unit": "g",
+      "emoji": "🧂",
+      "allergens": [],
+      "aliases": []
+    },
+    {
+      "id": "turmeric",
+      "name": "زردچوبه",
+      "category": "چاشنی‌ها",
+      "unit": "g",
+      "emoji": "🧂",
+      "allergens": [],
+      "aliases": []
+    },
+    {
+      "id": "thyme",
+      "name": "آویشن",
+      "category": "چاشنی‌ها",
+      "unit": "g",
+      "emoji": "🌿",
+      "allergens": [],
+      "aliases": []
+    },
+    {
+      "id": "walnut",
+      "name": "گردو",
+      "category": "خشکبار",
+      "unit": "g",
+      "emoji": "🌰",
+      "allergens": ["tree-nut"],
+      "aliases": []
+    },
+    {
+      "id": "barberry",
+      "name": "زرشک",
+      "category": "خشکبار",
+      "unit": "g",
+      "emoji": "🍒",
+      "allergens": [],
+      "aliases": []
+    },
+    {
+      "id": "raisin",
+      "name": "کشمش",
+      "category": "خشکبار",
+      "unit": "g",
+      "emoji": "🍇",
+      "allergens": [],
+      "aliases": []
+    },
+    {
+      "id": "baking-powder",
+      "name": "بیکینگ‌پودر",
+      "category": "چاشنی‌ها",
+      "unit": "g",
+      "emoji": "🥄",
+      "allergens": [],
+      "aliases": []
+    },
+    {
+      "id": "saffron",
+      "name": "زعفران",
+      "category": "چاشنی‌ها",
+      "unit": "g",
+      "emoji": "🌸",
+      "allergens": [],
+      "aliases": []
+    }
+  ],
+  "recipes": [
+    {
+      "id": "alfredo",
+      "version": 1,
+      "name": "پنه آلفردو",
+      "description": "پاستای خامه‌ای با مرغ و قارچ",
+      "servings": 4,
+      "minutes": 60,
+      "difficulty": "آسان",
+      "category": "پاستا",
+      "ingredients": [
+        {
+          "ingredientId": "penne",
+          "quantity": 400,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "chicken",
+          "quantity": 300,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "mushroom",
+          "quantity": 200,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "garlic",
+          "quantity": 8,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "cream",
+          "quantity": 200,
+          "unit": "g",
+          "estimated": false,
+          "optional": false
+        },
+        {
+          "ingredientId": "milk",
+          "quantity": 200,
+          "unit": "ml",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "parmesan",
+          "quantity": 60,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "butter",
+          "quantity": 25,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "thyme",
+          "quantity": 2,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "salt",
+          "quantity": 3,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "pepper",
+          "quantity": 1,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        }
+      ],
+      "steps": [
+        "پنه را در آب جوش بپزید و آبکش کنید.",
+        "مرغ و سیر را تفت دهید؛ قارچ را با کره جداگانه تفت دهید.",
+        "شیر و خامه را اضافه کنید و سپس پنیر و پنه را با سس مخلوط کنید."
+      ],
+      "sourceUrl": "https://kalleh.com/book/recipe/%D8%B7%D8%B1%D8%B2-%D8%AA%D9%87%DB%8C%D9%87-%D9%BE%D8%A7%D8%B3%D8%AA%D8%A7-%D8%B1%D8%B3%D8%AA%D9%88%D8%B1%D8%A7%D9%86%DB%8C/",
+      "sourceStatus": "reviewed",
+      "note": "مقادیر تبدیل‌شده به گرم و میلی‌لیتر و زمان کل، برآورد اولیه قابل اصلاح هستند؛ وزن عدد و حجم پیمانه از منبع اندازه‌گیری نشده است. تصویر، تصویرسازی برنامه است.",
+      "published": true,
+      "art": "پاستا"
+    },
+    {
+      "id": "kotlet",
+      "version": 1,
+      "name": "کتلت خانگی",
+      "description": "کتلت گوشت و سیب‌زمینی، برای یک شام آشنا",
+      "servings": 4,
+      "minutes": 65,
+      "difficulty": "آسان",
+      "category": "ایرانی",
+      "ingredients": [
+        {
+          "ingredientId": "beef",
+          "quantity": 300,
+          "unit": "g",
+          "estimated": false,
+          "optional": false
+        },
+        {
+          "ingredientId": "potato",
+          "quantity": 450,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "onion",
+          "quantity": 200,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "carrot",
+          "quantity": 70,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "garlic",
+          "quantity": 4,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "chickpea-flour",
+          "quantity": 25,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "egg",
+          "quantity": 1,
+          "unit": "count",
+          "estimated": false,
+          "optional": false
+        },
+        {
+          "ingredientId": "turmeric",
+          "quantity": 2,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "oil",
+          "quantity": 20,
+          "unit": "ml",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "salt",
+          "quantity": 3,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "pepper",
+          "quantity": 1,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        }
+      ],
+      "steps": [
+        "سیب‌زمینی، پیاز و هویج را رنده کنید و آب اضافی را بگیرید.",
+        "با گوشت، تخم‌مرغ، آرد و چاشنی‌ها مخلوط کنید.",
+        "کتلت‌ها را فرم دهید و هر دو طرف را تا پخت کامل سرخ کنید."
+      ],
+      "sourceUrl": "https://kalleh.com/book/recipe/%D8%B7%D8%B1%D8%B2-%D8%AA%D9%87%DB%8C%D9%87-%D8%B3%D8%A7%D9%86%D8%AF%D9%88%DB%8C%DA%86-%DA%A9%D8%AA%D9%84%D8%AA/",
+      "sourceStatus": "reviewed",
+      "note": "مقادیر تبدیل‌شده به گرم و میلی‌لیتر و زمان کل، برآورد اولیه قابل اصلاح هستند؛ وزن عدد و حجم پیمانه از منبع اندازه‌گیری نشده است. تصویر، تصویرسازی برنامه است. نان و مخلفات ساندویچ در این نسخه لحاظ نشده‌اند.",
+      "published": true,
+      "art": "کتلت"
+    },
+    {
+      "id": "potato-kuku",
+      "version": 1,
+      "name": "کوکو سیب‌زمینی",
+      "description": "ساده، کم‌دردسر و مناسب یک شام دونفره",
+      "servings": 2,
+      "minutes": 50,
+      "difficulty": "آسان",
+      "category": "ایرانی",
+      "ingredients": [
+        {
+          "ingredientId": "potato",
+          "quantity": 450,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "egg",
+          "quantity": 2,
+          "unit": "count",
+          "estimated": false,
+          "optional": false
+        },
+        {
+          "ingredientId": "onion",
+          "quantity": 80,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "chickpea-flour",
+          "quantity": 15,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "turmeric",
+          "quantity": 2,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "oil",
+          "quantity": 20,
+          "unit": "ml",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "salt",
+          "quantity": 3,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "pepper",
+          "quantity": 1,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        }
+      ],
+      "steps": [
+        "سیب‌زمینی را بپزید، خنک کنید و رنده کنید.",
+        "پیاز آب‌گرفته، تخم‌مرغ، آرد و چاشنی را اضافه کنید.",
+        "مایه را فرم دهید و دو طرف آن را سرخ کنید."
+      ],
+      "sourceUrl": "https://kalleh.com/book/recipe/%D8%B7%D8%B1%D8%B2-%D8%AA%D9%87%DB%8C%D9%87-%DA%A9%D9%88%DA%A9%D9%88-%D8%B3%DB%8C%D8%A8-%D8%B2%D9%85%DB%8C%D9%86%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D9%88-%D9%86%D9%81%D8%B1/",
+      "sourceStatus": "reviewed",
+      "note": "مقادیر تبدیل‌شده به گرم و میلی‌لیتر و زمان کل، برآورد اولیه قابل اصلاح هستند؛ وزن عدد و حجم پیمانه از منبع اندازه‌گیری نشده است. تصویر، تصویرسازی برنامه است.",
+      "published": true,
+      "art": "کوکو"
+    },
+    {
+      "id": "herb-kuku",
+      "version": 1,
+      "name": "کوکوسبزی",
+      "description": "عطر سبزی تازه، با گردو و زرشک دلخواه",
+      "servings": 4,
+      "minutes": 50,
+      "difficulty": "آسان",
+      "category": "ایرانی",
+      "ingredients": [
+        {
+          "ingredientId": "herbs",
+          "quantity": 1000,
+          "unit": "g",
+          "estimated": false,
+          "optional": false
+        },
+        {
+          "ingredientId": "egg",
+          "quantity": 5,
+          "unit": "count",
+          "estimated": false,
+          "optional": false
+        },
+        {
+          "ingredientId": "flour",
+          "quantity": 10,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "baking-powder",
+          "quantity": 4,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "turmeric",
+          "quantity": 2,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "walnut",
+          "quantity": 30,
+          "unit": "g",
+          "estimated": true,
+          "optional": true
+        },
+        {
+          "ingredientId": "barberry",
+          "quantity": 10,
+          "unit": "g",
+          "estimated": true,
+          "optional": true
+        },
+        {
+          "ingredientId": "oil",
+          "quantity": 20,
+          "unit": "ml",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "salt",
+          "quantity": 3,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "pepper",
+          "quantity": 1,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        }
+      ],
+      "steps": [
+        "سبزی شسته و خشک‌شده را خرد کنید.",
+        "با تخم‌مرغ، آرد، بیکینگ‌پودر و چاشنی مخلوط کنید.",
+        "در تابه گرم بریزید و دو طرف را بپزید."
+      ],
+      "sourceUrl": "https://kalleh.com/book/recipe/%D8%B7%D8%B1%D8%B2-%D8%AA%D9%87%DB%8C%D9%87-%DA%A9%D9%88%DA%A9%D9%88-%D8%B3%D8%A8%D8%B2%DB%8C/",
+      "sourceStatus": "reviewed",
+      "note": "مقادیر تبدیل‌شده به گرم و میلی‌لیتر و زمان کل، برآورد اولیه قابل اصلاح هستند؛ وزن عدد و حجم پیمانه از منبع اندازه‌گیری نشده است. تصویر، تصویرسازی برنامه است.",
+      "published": true,
+      "art": "سبزی"
+    },
+    {
+      "id": "istanbul",
+      "version": 1,
+      "name": "استانبولی",
+      "description": "برنج گوجه‌ای با گوشت و سیب‌زمینی",
+      "servings": 3,
+      "minutes": 80,
+      "difficulty": "متوسط",
+      "category": "ایرانی",
+      "ingredients": [
+        {
+          "ingredientId": "rice",
+          "quantity": 450,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "beef",
+          "quantity": 300,
+          "unit": "g",
+          "estimated": false,
+          "optional": false
+        },
+        {
+          "ingredientId": "onion",
+          "quantity": 150,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "tomato",
+          "quantity": 250,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "paste",
+          "quantity": 30,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "potato",
+          "quantity": 300,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "turmeric",
+          "quantity": 2,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "saffron",
+          "quantity": 0.1,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "oil",
+          "quantity": 20,
+          "unit": "ml",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "salt",
+          "quantity": 3,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "pepper",
+          "quantity": 1,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        }
+      ],
+      "steps": [
+        "پیاز و گوشت را با چاشنی تفت دهید و گوجه و رب را اضافه کنید.",
+        "سیب‌زمینی خردشده را سرخ کنید و به مایه بیفزایید.",
+        "برنج نیم‌پز را با مایه در قابلمه لایه‌لایه بریزید و دم کنید."
+      ],
+      "sourceUrl": "https://kalleh.com/book/recipe/%D8%B7%D8%B1%D8%B2-%D8%AA%D9%87%DB%8C%D9%87-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%A8%D9%88%D9%84%DB%8C-%D8%A8%D8%A7-%DA%AF%D9%88%D8%B4%D8%AA-%DA%86%D8%B1%D8%AE-%DA%A9%D8%B1%D8%AF%D9%87/",
+      "sourceStatus": "reviewed",
+      "note": "مقادیر تبدیل‌شده به گرم و میلی‌لیتر و زمان کل، برآورد اولیه قابل اصلاح هستند؛ وزن عدد و حجم پیمانه از منبع اندازه‌گیری نشده است. تصویر، تصویرسازی برنامه است.",
+      "published": true,
+      "art": "برنج"
+    },
+    {
+      "id": "adasi",
+      "version": 1,
+      "name": "عدسی",
+      "description": "یک کاسه گرم و ساده برای صبحانه یا شام",
+      "servings": 4,
+      "minutes": 75,
+      "difficulty": "آسان",
+      "category": "ایرانی",
+      "ingredients": [
+        {
+          "ingredientId": "lentil",
+          "quantity": 400,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "potato",
+          "quantity": 200,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "onion",
+          "quantity": 150,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "flour",
+          "quantity": 10,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "paste",
+          "quantity": 30,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "turmeric",
+          "quantity": 2,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "oil",
+          "quantity": 20,
+          "unit": "ml",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "salt",
+          "quantity": 3,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "pepper",
+          "quantity": 1,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        }
+      ],
+      "steps": [
+        "عدس را بشویید و خیس کنید.",
+        "پیاز را تفت دهید و رب، آرد و چاشنی را اضافه کنید.",
+        "عدس، سیب‌زمینی و آب را اضافه کنید و تا نرم شدن بپزید."
+      ],
+      "sourceUrl": "https://kalleh.com/book/recipe/%D8%B7%D8%B1%D8%B2-%D8%AA%D9%87%DB%8C%D9%87-%D8%B9%D8%AF%D8%B3%DB%8C-%D8%A8%D8%A7-%D8%B3%DB%8C%D8%A8-%D8%B2%D9%85%DB%8C%D9%86%DB%8C/",
+      "sourceStatus": "reviewed",
+      "note": "مقادیر تبدیل‌شده به گرم و میلی‌لیتر و زمان کل، برآورد اولیه قابل اصلاح هستند؛ وزن عدد و حجم پیمانه از منبع اندازه‌گیری نشده است. تصویر، تصویرسازی برنامه است. تعداد نفرات توسط تحریریه تخمین زده شده است.",
+      "published": true,
+      "art": "عدس"
+    },
+    {
+      "id": "loobia",
+      "version": 1,
+      "name": "لوبیاپلو",
+      "description": "برنج ایرانی با لوبیاسبز و گوشت",
+      "servings": 4,
+      "minutes": 110,
+      "difficulty": "آسان",
+      "category": "ایرانی",
+      "ingredients": [
+        {
+          "ingredientId": "green-bean",
+          "quantity": 350,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "rice",
+          "quantity": 600,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "beef",
+          "quantity": 350,
+          "unit": "g",
+          "estimated": false,
+          "optional": false
+        },
+        {
+          "ingredientId": "onion",
+          "quantity": 200,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "paste",
+          "quantity": 75,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "butter",
+          "quantity": 25,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "turmeric",
+          "quantity": 2,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "salt",
+          "quantity": 3,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "pepper",
+          "quantity": 1,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        }
+      ],
+      "steps": [
+        "لوبیاسبز خردشده را بپزید و برنج را خیس کنید.",
+        "پیاز و گوشت را تفت دهید؛ لوبیا، رب و چاشنی را اضافه کنید.",
+        "برنج آبکش‌شده و مایه را لایه‌لایه بریزید و دم کنید."
+      ],
+      "sourceUrl": "https://kalleh.com/book/recipe/%D8%B7%D8%B1%D8%B2-%D8%AA%D9%87%DB%8C%D9%87-%D9%84%D9%88%D8%A8%DB%8C%D8%A7-%D9%BE%D9%84%D9%88-%D8%A8%D8%A7-%DA%AF%D9%88%D8%B4%D8%AA-%DA%86%D8%B1%D8%AE-%DA%A9%D8%B1%D8%AF%D9%87/",
+      "sourceStatus": "reviewed",
+      "note": "مقادیر تبدیل‌شده به گرم و میلی‌لیتر و زمان کل، برآورد اولیه قابل اصلاح هستند؛ وزن عدد و حجم پیمانه از منبع اندازه‌گیری نشده است. تصویر، تصویرسازی برنامه است. تعداد نفرات توسط تحریریه تخمین زده شده است.",
+      "published": true,
+      "art": "برنج"
+    },
+    {
+      "id": "shaped-pasta",
+      "version": 1,
+      "name": "ماکارونی شکل‌دار",
+      "description": "پروفایل اولیه؛ منتظر بررسی دستور منبع",
+      "servings": 4,
+      "minutes": 50,
+      "difficulty": "آسان",
+      "category": "پاستا",
+      "ingredients": [
+        {
+          "ingredientId": "pasta",
+          "quantity": 400,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "beef",
+          "quantity": 250,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "onion",
+          "quantity": 150,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "paste",
+          "quantity": 50,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "oil",
+          "quantity": 20,
+          "unit": "ml",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "salt",
+          "quantity": 3,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "pepper",
+          "quantity": 1,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        }
+      ],
+      "steps": [
+        "دستور منبع هنوز بررسی نشده است؛ مدیر باید مواد و مراحل را تکمیل کند."
+      ],
+      "sourceUrl": "https://kalleh.com/book/recipe/%D8%B7%D8%B1%D8%B2-%D8%AA%D9%87%DB%8C%D9%87-%D9%85%D8%A7%DA%A9%D8%A7%D8%B1%D9%88%D9%86%DB%8C-%D8%B4%DA%A9%D9%84-%D8%AF%D8%A7%D8%B1/",
+      "sourceStatus": "unavailable",
+      "note": "مقادیر تبدیل‌شده به گرم و میلی‌لیتر و زمان کل، برآورد اولیه قابل اصلاح هستند؛ وزن عدد و حجم پیمانه از منبع اندازه‌گیری نشده است. تصویر، تصویرسازی برنامه است. منبع قابل بازیابی نبود؛ مقادیر فقط پیش‌نویس تحریریه هستند.",
+      "published": false,
+      "art": "پاستا"
+    },
+    {
+      "id": "spaghetti",
+      "version": 1,
+      "name": "ماکارونی رشته‌ای",
+      "description": "پروفایل اولیه گوشت و قارچ؛ منتظر بررسی",
+      "servings": 4,
+      "minutes": 60,
+      "difficulty": "آسان",
+      "category": "پاستا",
+      "ingredients": [
+        {
+          "ingredientId": "spaghetti",
+          "quantity": 400,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "beef",
+          "quantity": 250,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "mushroom",
+          "quantity": 200,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "onion",
+          "quantity": 150,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "paste",
+          "quantity": 50,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "oil",
+          "quantity": 20,
+          "unit": "ml",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "salt",
+          "quantity": 3,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "pepper",
+          "quantity": 1,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        }
+      ],
+      "steps": [
+        "دستور منبع هنوز بررسی نشده است؛ مدیر باید مواد و مراحل را تکمیل کند."
+      ],
+      "sourceUrl": "https://kalleh.com/book/recipe/%D9%85%D8%A7%DA%A9%D8%A7%D8%B1%D9%88%D9%86%DB%8C-%D8%A8%D8%A7-%DA%AF%D9%88%D8%B4%D8%AA-%DA%86%D8%B1%D8%AE-%DA%A9%D8%B1%D8%AF%D9%87-%D9%88-%D9%82%D8%A7%D8%B1%DA%86/",
+      "sourceStatus": "unavailable",
+      "note": "مقادیر تبدیل‌شده به گرم و میلی‌لیتر و زمان کل، برآورد اولیه قابل اصلاح هستند؛ وزن عدد و حجم پیمانه از منبع اندازه‌گیری نشده است. تصویر، تصویرسازی برنامه است. منبع قابل بازیابی نبود؛ مقادیر فقط پیش‌نویس تحریریه هستند.",
+      "published": false,
+      "art": "پاستا"
+    },
+    {
+      "id": "lentil-rice",
+      "version": 1,
+      "name": "عدس‌پلو با سویا و کشمش",
+      "description": "پروفایل اولیه؛ منتظر بررسی دستور منبع",
+      "servings": 4,
+      "minutes": 90,
+      "difficulty": "متوسط",
+      "category": "ایرانی",
+      "ingredients": [
+        {
+          "ingredientId": "rice",
+          "quantity": 400,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "lentil",
+          "quantity": 200,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "soy",
+          "quantity": 100,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "raisin",
+          "quantity": 80,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "onion",
+          "quantity": 200,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "oil",
+          "quantity": 20,
+          "unit": "ml",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "salt",
+          "quantity": 3,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        },
+        {
+          "ingredientId": "pepper",
+          "quantity": 1,
+          "unit": "g",
+          "estimated": true,
+          "optional": false
+        }
+      ],
+      "steps": [
+        "دستور منبع هنوز بررسی نشده است؛ مدیر باید مواد و مراحل را تکمیل کند."
+      ],
+      "sourceUrl": "https://kalleh.com/book/recipe/%D8%B7%D8%B1%D8%B2-%D8%AA%D9%87%DB%8C%D9%87-%D8%B9%D8%AF%D8%B3-%D9%BE%D9%84%D9%88-%D8%A8%D8%A7-%D8%B3%D9%88%DB%8C%D8%A7/",
+      "sourceStatus": "unavailable",
+      "note": "مقادیر تبدیل‌شده به گرم و میلی‌لیتر و زمان کل، برآورد اولیه قابل اصلاح هستند؛ وزن عدد و حجم پیمانه از منبع اندازه‌گیری نشده است. تصویر، تصویرسازی برنامه است. منبع قابل بازیابی نبود؛ مقادیر فقط پیش‌نویس تحریریه هستند.",
+      "published": false,
+      "art": "برنج"
+    }
+  ]
+}
