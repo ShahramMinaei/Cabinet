@@ -6,3 +6,4 @@ playwright-report/
 test-results/
 *.tsbuildinfo
 .npm-cache/
+.pages-build/

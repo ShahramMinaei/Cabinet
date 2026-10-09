@@ -7,11 +7,12 @@ import "@fontsource/vazirmatn/800.css";
 import "./globals.css";
 import { WorkspaceProvider } from "@/features/workspace/provider";
 import { Shell } from "@/components/shell";
+import { publicAsset } from "@/lib/paths";
 export const metadata: Metadata = {
   title: "کابینت | دستیار هوشمند آشپزخانه",
   description:
     "موجودی خانه، برنامه غذایی و فهرست خرید؛ همه در یک آشپزخانه مرتب.",
-  icons: { icon: "/icon.svg" },
+  icons: { icon: publicAsset("/icon.svg") },
 };
 export default function RootLayout({
   children,

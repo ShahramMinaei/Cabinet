@@ -10,7 +10,7 @@ import {
   RotateCcw,
   ShoppingBasket,
 } from "lucide-react";
-import Link from "next/link";
+import Link from "@/components/app-link";
 import { PageHeading, Button, Modal, Field } from "@/components/ui";
 import { useWorkspace } from "@/features/workspace/provider";
 import { recommend, recipeRequirements, ingredientMap } from "@/domain/engine";

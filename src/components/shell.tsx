@@ -1,5 +1,5 @@
 "use client";
-import Link from "next/link";
+import Link from "@/components/app-link";
 import { usePathname } from "next/navigation";
 import {
   Bell,
@@ -22,6 +22,7 @@ import { useWorkspace } from "@/features/workspace/provider";
 import { AuthScreen } from "@/features/auth/auth-screen";
 import { faDate, localDate, number } from "@/lib/dates";
 import { Modal, Button } from "./ui";
+import { publicAsset } from "@/lib/paths";
 const navigation = [
   { href: "/", title: "خانه", icon: Home },
   { href: "/pantry", title: "موجودی آشپزخانه", icon: Package },
@@ -51,7 +52,7 @@ export function Shell({ children }: { children: ReactNode }) {
   if (loading)
     return (
       <div className="loading-screen">
-        <img src="/icon.svg" alt="کابینت" />
+        <img src={publicAsset("/icon.svg")} alt="کابینت" />
         <p>آشپزخانه‌تان را آماده می‌کنیم…</p>
       </div>
     );
@@ -85,7 +86,7 @@ export function Shell({ children }: { children: ReactNode }) {
       {alerts}
       <aside className={`sidebar ${mobile ? "mobile-open" : ""}`}>
         <Link className="brand" href="/">
-          <img src="/icon.svg" alt="" />
+          <img src={publicAsset("/icon.svg")} alt="" />
           <strong>
             کابینت<span>دستیار آشپزخانه شما</span>
           </strong>

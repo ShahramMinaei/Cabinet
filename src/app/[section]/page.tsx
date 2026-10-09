@@ -13,6 +13,9 @@ const pages = {
   settings: SettingsPage,
   admin: AdminPage,
 };
+export function generateStaticParams() {
+  return Object.keys(pages).map((section) => ({ section }));
+}
 export default async function Page({
   params,
 }: {
